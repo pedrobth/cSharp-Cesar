@@ -1,0 +1,16 @@
+  Determining projects to restore...
+/usr/local/share/dotnet/sdk/5.0.203/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.EolTargetFrameworks.targets(28,5): warning NETSDK1138: The target framework 'netcoreapp2.2' is out of support and will not receive security updates in the future. Please refer to https://aka.ms/dotnet-core-support for more information about the support policy. [/Users/bth/codenation/csharp-2/Source.TestSubmission/Source.TestSubmission.csproj]
+/usr/local/share/dotnet/sdk/5.0.203/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.EolTargetFrameworks.targets(28,5): warning NETSDK1138: The target framework 'netcoreapp2.2' is out of support and will not receive security updates in the future. Please refer to https://aka.ms/dotnet-core-support for more information about the support policy. [/Users/bth/codenation/csharp-2/Source.TestSubmission/Source.TestSubmission.csproj]
+  All projects are up-to-date for restore.
+/usr/local/share/dotnet/sdk/5.0.203/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.EolTargetFrameworks.targets(28,5): warning NETSDK1138: The target framework 'netcoreapp2.2' is out of support and will not receive security updates in the future. Please refer to https://aka.ms/dotnet-core-support for more information about the support policy. [/Users/bth/codenation/csharp-2/Source.TestSubmission/Source.TestSubmission.csproj]
+  Source -> /Users/bth/codenation/csharp-2/Source/bin/Debug/netstandard2.0/Source.dll
+  Source.TestSubmission -> /Users/bth/codenation/csharp-2/Source.TestSubmission/bin/Debug/netcoreapp2.2/Source.TestSubmission.dll
+Test run for /Users/bth/codenation/csharp-2/Source.TestSubmission/bin/Debug/netcoreapp2.2/Source.TestSubmission.dll (.NETCoreApp,Version=v2.2)
+Microsoft (R) Test Execution Command Line Tool Version 16.9.4
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Results File: /Users/bth/codenation/csharp-2/Source.TestSubmission/results.xml
+
+Passed!  - Failed:     0, Passed:     9, Skipped:     0, Total:     9, Duration: 25 ms - /Users/bth/codenation/csharp-2/Source.TestSubmission/bin/Debug/netcoreapp2.2/Source.TestSubmission.dll (netcoreapp2.2)
